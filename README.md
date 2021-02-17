@@ -1,4 +1,4 @@
-# Aplikasi Data Warga Terdampat Covid-19
+# Aplikasi Data Warga Terdampak Covid-19
 
 Project ini dibuat menggunakan [Create React App](https://github.com/facebook/create-react-app).
 
